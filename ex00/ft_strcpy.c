@@ -6,11 +6,9 @@
 /*   By: casampai <casampai@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/04/14 13:01:33 by casampai          #+#    #+#             */
-/*   Updated: 2026/04/14 13:32:56 by casampai         ###   ########.fr       */
+/*   Updated: 2026/04/14 13:40:13 by casampai         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
-#include <stdio.h>
 
 char	*ft_strcpy(char *dest, char *src)
 {
